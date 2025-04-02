@@ -3,8 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (PoduskaToolBox)" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="9dd8f3f7-d3b1-4a40-9ea9-ba4b329eb4ad" />
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (BEAToolBox)" project-jdk-type="Python SDK" />
 </project>
