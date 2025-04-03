@@ -1,4 +1,4 @@
-# Orion Star A250 Script
+# Orion Star A215 Script
 **This is a script to control the Orion Star A250 pH-meter.**
 
 **Prerequisites**
