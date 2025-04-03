@@ -9,14 +9,14 @@ The script provides a GUI interface, allowing users to operate the pH-meter with
 ### Setup and Running Instructions
 
 1. **Navigate to the script directory**  
-   Open your terminal and change to the directory containing `OrionStar250_code(pH-meter)`:
+   Open your terminal and change to the directory containing `OrionStarA150_code(pH-meter)`:
    ```bash
-   cd <path/to/OrionStar250_code(pH-meter)>
+   cd <path/to/OrionStarA215_code(pH-meter)>
    ```
-    _Replace `<path/to/OrionStar250_code(pH-meter)>` with the actual path on your system._
+    _Replace `<path/to/OrionStarA215_code(pH-meter)>` with the actual path on your system._
 
 2. **Create a virtual environment**  
-    It’s good practice to create a virtual environment to isolate dependencies. <span style="color:red">Run this command only the first time:</span> 
+    It’s good practice to create a virtual environment to isolate dependencies. **<span style="color:red">Run this command only the first time:</span>** 
     ```bash
     python3 -m venv venv 
     ```
