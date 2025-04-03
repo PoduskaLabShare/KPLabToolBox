@@ -14,7 +14,7 @@ parity = None
 stop_bits = 1
 flow_control = None
 line_break = '\r'  # CR as per rule 1
-line_termination = '>'  # Wait for prompt as per rule 3
+line_termination = '>'  # Wait for prompt as per rule 3 in manual page 83
 
 
 # Function to set the time on the meter
