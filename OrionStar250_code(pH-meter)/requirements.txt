@@ -1,0 +1,9 @@
+streamlit ~= 1.44.0
+plotly ~= 6.0.1
+numpy ~= 2.2.4
+pandas ~= 2.2.3
+PyVISA ~= 1.14.1
+PyVISA-py ~= 0.7.2
+psutil ~= 7.0.0
+zeroconf ~= 0.146.1
+PySerial ~= 3.5
