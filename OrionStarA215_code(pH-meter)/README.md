@@ -18,12 +18,12 @@ The script provides a GUI interface, allowing users to operate the pH-meter with
 2. **Create a virtual environment**  
     It’s good practice to create a virtual environment to isolate dependencies. **<span style="color:red">Run this command only the first time:</span>** 
     ```bash
-    python3 -m venv venv 
+    python3 -m venv .venv 
     ```
 3. Activate the virtual environment  
     * _**Windows**_
         ```bash
-        venv\Scripts\activate
+        .venv\Scripts\activate
         ```
     * _**Linux/macOS**_
         ```bash
@@ -44,6 +44,6 @@ The script provides a GUI interface, allowing users to operate the pH-meter with
     Launch the pH-meter app using Streamlit:
 
     ```bash
-    streamlit run main.py
+    streamlit run ph.py
     ```
     * If your browser doesn’t open automatically, navigate to: `http://localhost:8501`
