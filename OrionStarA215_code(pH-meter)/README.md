@@ -44,6 +44,8 @@ The script provides a GUI interface, allowing users to operate the pH-meter with
     Launch the pH-meter app using Streamlit:
 
     ```bash
-    streamlit run ph.py
+    streamlit run ph_script.py
     ```
     * If your browser doesn’t open automatically, navigate to: `http://localhost:8501`
+
+Update the available electrodes in the `electrode_list.json`
