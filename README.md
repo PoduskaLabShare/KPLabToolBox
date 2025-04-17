@@ -1,6 +1,6 @@
 # Code ToolBox Repository for Poduska's Lab
 
-This repository is not actively mantained use according to your own risk.
+This repository is not actively maintained use according to your own risk.
 
 ### Directory Structure
 * graph_templates  
