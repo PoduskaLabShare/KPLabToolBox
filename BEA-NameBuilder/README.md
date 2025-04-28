@@ -1,5 +1,7 @@
 # BEA NameBuilder
 
+**This webapp will not be periodically updated. If you are looking for an updated version, visit https://github.com/bespinosaaco/BEA-NameBuilder**
+
 ## Overview
 BEA NameBuilder is a web application designed to create and generate standardized file names based on user-defined naming conventions. 
 It allows users to build a naming convention with metadata (Date, Categorical, Numerical), specify separators, and generate file names with QR codes for easy sharing.  
