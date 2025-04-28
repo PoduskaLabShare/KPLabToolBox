@@ -1,0 +1,24 @@
+{
+  "categorical_examples": [
+    "Conditions",
+    "Name/Initials",
+    "Project/Experiment Name"
+    ],
+  "numerical_examples": [
+    "Numerator",
+    "Temperature",
+    "Volume"
+  ],
+  "date_examples": [
+    "Production",
+    "Storage"
+  ],
+  "date_formats" : [
+    "YYYYMMDD",
+    "DDMMYYYY",
+    "MMDDYYYY",
+    "YYYYDDMM",
+    "MMYY",
+    "YYMM"
+  ]
+}
