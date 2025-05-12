@@ -10,4 +10,3 @@ It has some sample data
 A script to control the Orion Star 250 pH-meter
 * overleaf_templates  
 A compilation of LaTEX/Overleaf templates used by the team
-* Small change
