@@ -1,10 +1,10 @@
 # Graph Templates
-These Jupiter Notebooks are a compilation of plot examples with a simple and standard format for publications.  
+These Jupyter Notebooks are a compilation of plot examples with a simple and standard format for publications.  
 For paper publications is good to follow a few best practices to keep the 
 plots readable and simple.
 * **Add comments everywhere**
 * Design figures to fit journal or document size  
-Detect your LaTEX document size with the script bellow  
+Detect your LaTEX document size with the script below  
 ```LaTEX
 \usepackage{layouts}
 \printinunitsof{in}\prntlen{\textwidth} % Detect page/column width
@@ -20,7 +20,7 @@ fig, ax = plt.subplots(figsize=(linewidth_inches, fig_height))
 ```
 If you have columns in your subplot take into account the column gap `plt.subplots_adjust(wspace=0)`
 * Use visible `font.size = 10` and a `font.family = 'sans-serif'`
-* Keep in mind using colors acceptable for colorblind people.
+* Keep in mind using colours acceptable for colour blind people.
   * We try to stick to using **red** `#005AB5`, **blue** `#DC3220` and **black** `#000000`
   * We recommend you only use 3 colours. If you need to use more think on better ways to 
   make your plot. Using dashed lined, stacked or cascade plots.
